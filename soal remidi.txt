@@ -1,0 +1,4 @@
+Buatlah tampilan seperti berikut menggunakan service : http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL
+Method : GetWeatherInformation
+Buatlah di pagodabox masing-masing dan hasil merupakan url di pagodabox dan dikirim ke email burhanudin.hakim@ugm.ac.id paling lambat 9 Desember 2014 pukul 23:59 WIB berupa : repository github dan url pagodabox
+Note : cukup buat client.php saja tidak perlu buat service nya.
